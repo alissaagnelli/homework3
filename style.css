@@ -1,1 +1,65 @@
 
+/* CSS file for the HTML page */
+
+  body {
+    background-color: rgb(246, 236, 251);
+  }
+
+  h1 {
+    color: rgb(60, 8, 62);
+    text-align: center;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-size: 40px;
+  }
+
+  h2 {
+    color: rgb(60, 8, 62);
+    text-align: center;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-size: 28px;
+  }
+  
+  h3 {
+    color: rgb(126, 62, 128);
+    text-align: center;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-size: 20px;
+  }
+
+  h4 {
+    font-family: Futura, "Trebuchet MS", sans-serif;
+    font-size: 16px;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+  }
+
+  p {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: justify;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  ul{
+    background: #eeffcc9f;
+    color: rgb(13, 63, 29);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 2% 10%;
+  }
+
+  li{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+  }
